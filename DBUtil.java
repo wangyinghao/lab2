@@ -1,5 +1,5 @@
 package DBUtil;
-
+//DBUtil class
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;

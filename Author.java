@@ -1,5 +1,5 @@
 package wang;
-
+//Author class
 public class Author {
 private int AuthorID;
 private String Name;
