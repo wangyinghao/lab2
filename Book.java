@@ -1,5 +1,5 @@
 package wang;
-//Book class
+//Book class new
 public class Book {
 	private String ISBN;
 	private String Title;
